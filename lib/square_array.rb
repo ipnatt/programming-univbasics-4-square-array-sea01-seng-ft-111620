@@ -4,4 +4,5 @@ def square_array(array)
     square = num.sqrt
     squared_array << square
   end
-  
+  squared_array
+end
