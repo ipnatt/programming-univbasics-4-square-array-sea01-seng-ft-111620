@@ -1,5 +1,6 @@
 def square_array(array)
   counter = 0
+  array[].sqrt
   
   while counter < array.length do
     puts array[counter]
@@ -7,4 +8,3 @@ def square_array(array)
   end
 end
 
-square_array[array]
